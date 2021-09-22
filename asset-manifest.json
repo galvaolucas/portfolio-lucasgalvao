@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio-lucasgalvao/static/css/main.a617e044.chunk.css",
+    "main.js": "/portfolio-lucasgalvao/static/js/main.2070e043.chunk.js",
+    "main.js.map": "/portfolio-lucasgalvao/static/js/main.2070e043.chunk.js.map",
+    "runtime-main.js": "/portfolio-lucasgalvao/static/js/runtime-main.f7c52a35.js",
+    "runtime-main.js.map": "/portfolio-lucasgalvao/static/js/runtime-main.f7c52a35.js.map",
+    "static/js/2.c59ff539.chunk.js": "/portfolio-lucasgalvao/static/js/2.c59ff539.chunk.js",
+    "static/js/2.c59ff539.chunk.js.map": "/portfolio-lucasgalvao/static/js/2.c59ff539.chunk.js.map",
+    "static/js/3.29200bc3.chunk.js": "/portfolio-lucasgalvao/static/js/3.29200bc3.chunk.js",
+    "static/js/3.29200bc3.chunk.js.map": "/portfolio-lucasgalvao/static/js/3.29200bc3.chunk.js.map",
+    "index.html": "/portfolio-lucasgalvao/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/portfolio-lucasgalvao/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.c59ff539.chunk.js.LICENSE.txt": "/portfolio-lucasgalvao/static/js/2.c59ff539.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7c52a35.js",
+    "static/js/2.c59ff539.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.2070e043.chunk.js"
+  ]
+}
