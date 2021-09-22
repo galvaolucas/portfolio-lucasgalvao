@@ -1,11 +1,11 @@
-import './App.css';
+import React from 'react'
 
 function App() {
   return (
-    <div className="App">
-      <h1> Cabeca de gato </h1>
+    <div>
+      <h1> churupita lanurova </h1>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
