@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio-lucasgalvao/static/css/main.a617e044.chunk.css",
-    "main.js": "/portfolio-lucasgalvao/static/js/main.fa5de36f.chunk.js",
-    "main.js.map": "/portfolio-lucasgalvao/static/js/main.fa5de36f.chunk.js.map",
-    "runtime-main.js": "/portfolio-lucasgalvao/static/js/runtime-main.f7c52a35.js",
-    "runtime-main.js.map": "/portfolio-lucasgalvao/static/js/runtime-main.f7c52a35.js.map",
-    "static/js/2.c59ff539.chunk.js": "/portfolio-lucasgalvao/static/js/2.c59ff539.chunk.js",
-    "static/js/2.c59ff539.chunk.js.map": "/portfolio-lucasgalvao/static/js/2.c59ff539.chunk.js.map",
-    "static/js/3.29200bc3.chunk.js": "/portfolio-lucasgalvao/static/js/3.29200bc3.chunk.js",
-    "static/js/3.29200bc3.chunk.js.map": "/portfolio-lucasgalvao/static/js/3.29200bc3.chunk.js.map",
+    "main.css": "/portfolio-lucasgalvao/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/portfolio-lucasgalvao/static/js/main.de10219f.chunk.js",
+    "main.js.map": "/portfolio-lucasgalvao/static/js/main.de10219f.chunk.js.map",
+    "runtime-main.js": "/portfolio-lucasgalvao/static/js/runtime-main.332ad635.js",
+    "runtime-main.js.map": "/portfolio-lucasgalvao/static/js/runtime-main.332ad635.js.map",
+    "static/js/2.3f8a9787.chunk.js": "/portfolio-lucasgalvao/static/js/2.3f8a9787.chunk.js",
+    "static/js/2.3f8a9787.chunk.js.map": "/portfolio-lucasgalvao/static/js/2.3f8a9787.chunk.js.map",
+    "static/js/3.67d52f42.chunk.js": "/portfolio-lucasgalvao/static/js/3.67d52f42.chunk.js",
+    "static/js/3.67d52f42.chunk.js.map": "/portfolio-lucasgalvao/static/js/3.67d52f42.chunk.js.map",
     "index.html": "/portfolio-lucasgalvao/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/portfolio-lucasgalvao/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.c59ff539.chunk.js.LICENSE.txt": "/portfolio-lucasgalvao/static/js/2.c59ff539.chunk.js.LICENSE.txt"
+    "static/css/main.6dea0f05.chunk.css.map": "/portfolio-lucasgalvao/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.3f8a9787.chunk.js.LICENSE.txt": "/portfolio-lucasgalvao/static/js/2.3f8a9787.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f7c52a35.js",
-    "static/js/2.c59ff539.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.fa5de36f.chunk.js"
+    "static/js/runtime-main.332ad635.js",
+    "static/js/2.3f8a9787.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.de10219f.chunk.js"
   ]
 }
