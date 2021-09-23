@@ -1,11 +1,8 @@
-import React from 'react'
+import React from 'react';
+import Home from './components/home';
 
 function App() {
-  return (
-    <div>
-      <h1> churupita lanurova </h1>
-    </div>
-  )
+  return < Home />;
 }
 
 export default App
