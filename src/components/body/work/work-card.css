@@ -1,20 +1,21 @@
 .work-card{
-    padding: 8px;
-    width: 45%;
+    padding: 10px;
+    width: auto;
     margin-top: 16px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    flex-direction: row-reverse;
+    flex-direction: row;
 }
 
 .work-logo{
-    height: 70%;
+    height: 40%;
+    margin-right: 8px 16px;
     
 }
 
 .work-card{
-    height: 80px;
+    height: 90px;
 }
 
 .work-info{
@@ -28,7 +29,8 @@
 }
 
 .work-desc{
-    text-align: left;
+    align-items: center;
+    text-align: justify;
     display: -webkit-box;
     -webkit-line-clamp: 2;
     -webkit-box-orient: horizontal;

@@ -3,7 +3,7 @@ import './mobile.css'
 
 function Mobile({isOpen, setIsOpen}) {
     return (
-        <div className='mobile'> This Is Us
+        <div className='mobile'>
           <div className='close-icon' onClick={() => setIsOpen(!isOpen)}>
           <i class="fi-rr-cross-circle"></i>
           </div>

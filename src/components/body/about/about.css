@@ -23,6 +23,10 @@
     font-size: 32px;
 }
 
+.about-name{
+    color: aquamarine;
+}
+
 @media only screen and (max-width: 720 px){
     .about-top{
         flex-direction: column;
@@ -38,4 +42,5 @@
     .info-name{
         font-size: 26px;
     }
+
 }
