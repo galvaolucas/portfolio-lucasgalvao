@@ -8,7 +8,7 @@ export const SocialData = [
     },
     {
         platform: 'LinkedIn',
-        link: 'www.linkedin.com',
+        link: 'https://www.linkedin.com/in/lucasm-galvao/',
         icon: require('../../../src/assets/social/linkedin.png').default
     },
     {

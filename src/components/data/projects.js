@@ -10,7 +10,7 @@ export const ProjectData = [
     },
     
     {
-        id: 1,
+        id: 2,
         title: 'Random Project 2',
         about: 'Description',
         tags: ['React JS','HTML','CSS','Javascript'],
