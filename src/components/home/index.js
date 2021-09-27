@@ -1,22 +1,28 @@
-import React from 'react';
-import Header from '../header/header';
-import Body from '../body/body';
-import Footer from '../footer/footer';
-import './home.css';
+import React from 'react'
+import './home.css'
+import Header from '../header/header'
+import Body from '../body/body'
+import Footer from '../footer/footer'
 
-function Home () {
-    return (
-        <div className='home'>
-            <div> 
-            < Header />
-            </div>
-            <div> 
-            < Body /> 
-            </div>
-            <div>
-            < Footer /> 
-            </div> 
+function home() {
+    return <div className = 'home'>
+        <div>
+            < Header /> 
+
         </div>
-    )}
 
-export default Home 
+        <div>
+            < Body /> 
+
+        </div>
+
+        <div>
+            < Footer /> 
+
+        </div>
+
+    </div>
+        
+}
+
+export default home
