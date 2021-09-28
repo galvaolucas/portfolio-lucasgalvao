@@ -20,7 +20,7 @@ function ProjectCard({project}) {
                     </div>
                     </a> }
                 </div>
-            <p>
+            <p className='project-about'>
                 {project.about} </p>
             <div className='project-tags'>
                 {project.tags.map((tag)=>{
