@@ -22,9 +22,11 @@
     color: blue;
     font-size: 32px;
 }
-
+.jumbotron{
+    align-items: center;
+}
 .about-name{
-    color: aquamarine;
+    color: black;
 }
 
 @media only screen and (max-width: 720 px){
