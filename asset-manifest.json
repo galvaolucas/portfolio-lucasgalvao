@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio-lucasgalvao/static/css/main.e735b1ef.chunk.css",
-    "main.js": "/portfolio-lucasgalvao/static/js/main.c1aa5305.chunk.js",
-    "main.js.map": "/portfolio-lucasgalvao/static/js/main.c1aa5305.chunk.js.map",
-    "runtime-main.js": "/portfolio-lucasgalvao/static/js/runtime-main.541135c3.js",
-    "runtime-main.js.map": "/portfolio-lucasgalvao/static/js/runtime-main.541135c3.js.map",
+    "main.css": "/portfolio-lucasgalvao/static/css/main.d50159df.chunk.css",
+    "main.js": "/portfolio-lucasgalvao/static/js/main.402fb78b.chunk.js",
+    "main.js.map": "/portfolio-lucasgalvao/static/js/main.402fb78b.chunk.js.map",
+    "runtime-main.js": "/portfolio-lucasgalvao/static/js/runtime-main.67559010.js",
+    "runtime-main.js.map": "/portfolio-lucasgalvao/static/js/runtime-main.67559010.js.map",
     "static/js/2.20340e91.chunk.js": "/portfolio-lucasgalvao/static/js/2.20340e91.chunk.js",
     "static/js/2.20340e91.chunk.js.map": "/portfolio-lucasgalvao/static/js/2.20340e91.chunk.js.map",
-    "static/js/3.bcc8c97a.chunk.js": "/portfolio-lucasgalvao/static/js/3.bcc8c97a.chunk.js",
-    "static/js/3.bcc8c97a.chunk.js.map": "/portfolio-lucasgalvao/static/js/3.bcc8c97a.chunk.js.map",
+    "static/js/3.77ea301e.chunk.js": "/portfolio-lucasgalvao/static/js/3.77ea301e.chunk.js",
+    "static/js/3.77ea301e.chunk.js.map": "/portfolio-lucasgalvao/static/js/3.77ea301e.chunk.js.map",
     "index.html": "/portfolio-lucasgalvao/index.html",
-    "static/css/main.e735b1ef.chunk.css.map": "/portfolio-lucasgalvao/static/css/main.e735b1ef.chunk.css.map",
+    "static/css/main.d50159df.chunk.css.map": "/portfolio-lucasgalvao/static/css/main.d50159df.chunk.css.map",
     "static/js/2.20340e91.chunk.js.LICENSE.txt": "/portfolio-lucasgalvao/static/js/2.20340e91.chunk.js.LICENSE.txt",
     "static/media/photocode.png": "/portfolio-lucasgalvao/static/media/photocode.ac63c7ae.png",
-    "static/media/resume.pdf": "/portfolio-lucasgalvao/static/media/resume.0808ad7c.pdf"
+    "static/media/resume.pdf": "/portfolio-lucasgalvao/static/media/resume.6a403906.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.541135c3.js",
+    "static/js/runtime-main.67559010.js",
     "static/js/2.20340e91.chunk.js",
-    "static/css/main.e735b1ef.chunk.css",
-    "static/js/main.c1aa5305.chunk.js"
+    "static/css/main.d50159df.chunk.css",
+    "static/js/main.402fb78b.chunk.js"
   ]
 }
