@@ -4,7 +4,6 @@ import './work-card.css'
 function WorkCard({item}) {
     return (
         <div className='work-card'>
-            <img src={item.companyLogo} className='work-logo' alt='logo-company' />
             <div className='work-info'>
                 <label className='company-name'>{item.company}</label>
                 <div className='work-dates'>

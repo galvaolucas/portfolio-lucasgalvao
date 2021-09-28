@@ -1,17 +1,15 @@
-.work-card{
-    padding: 10px;
-    width: auto;
-    margin-top: 16px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-direction: row;
+.company-name{
+    font-size: 25px;
 }
 
-.work-logo{
-    height: 40%;
-    margin-right: 8px 16px;
-    
+.work-card{
+    padding: 50px;
+    width: 100%;
+    margin: 35px;
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+    flex-direction: row;
 }
 
 .work-card{
@@ -20,12 +18,15 @@
 
 .work-info{
     display: flex;
-    align-items: flex-start;
-    flex-direction: column;    
+    margin: 50px;
+    flex-direction: column;
+    align-items: baseline;
+    
 }
 
 .work-dates{
     color: gray;
+    align-items: flex-start;
 }
 
 .work-desc{
@@ -36,7 +37,7 @@
     -webkit-box-orient: horizontal;
     overflow: hidden;
     text-overflow: ellipsis;
-    max-width: 80%;
+    max-width: 100%;
 }
 
 .work-designation{
