@@ -11,11 +11,20 @@ export const ProjectData = [
     
     {
         id: 2,
-        title: 'Random Project 2',
-        about: 'Description',
-        tags: ['React JS','HTML','CSS','Javascript'],
+        title: 'Github Personalization',
+        about: 'This is a option for Github personalization, which you can show your habilities and most used languages! Feel free to implement more options!',
+        tags: ['HTML'],
         demo: 'https://github.com/galvaolucas',
-        github: 'https://github.com/galvaolucas',
+        github: 'https://github.com/galvaolucas/galvaolucas',
+        image: require('../../../src/assets/dev/introgithub.png').default
+    },
+    {
+        id: 3,
+        title: 'Exercises',
+        about: 'Some exercises i have made while studying',
+        tags: ['Javascript'],
+        demo: 'https://github.com/galvaolucas',
+        github: 'https://github.com/galvaolucas/Certifications-Projects',
         image: require('../../../src/assets/dev/introgithub.png').default
     },
     
