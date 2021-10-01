@@ -2,17 +2,17 @@
     display: flex;
     flex: 1;
     justify-content: space-between;
-    align-items: center;
     margin: 16px 0px;
     padding: 8px 0px;
 }
 
 .project-photo{
     width: 40%;
+    float: right;
 }
 
 .project-about{
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 .project-info{

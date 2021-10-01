@@ -1,12 +1,11 @@
 .header{
     display: flex;
-    background-color: yellow;
+    background-color:black;
     justify-content: space-between; /* joga o conteudo para as pontas*/
     flex: 1;
     padding: 12px; /*distancia para o topo do header*/
     position: relative;
-    align-items: center;
-    
+    align-items: center;    
 }
 
 .menu{
@@ -17,7 +16,6 @@
 
 .menu-icon{
     font-size: 24px;
-    
 }
 
 .mobile-menu{

@@ -8,9 +8,9 @@ function About() {
             <div className='about-top'>
             <div class="jumbotron">
             <h1 className="about-name">Olá, eu sou o Lucas!</h1>
-            <p className="lead">Aqui nesse porftólio vocês podem encontrar um pouco do que já desenvolvi, e quais habilidades estou desenvolvendo no momento.</p>
+            <p className="lead">Aqui nesse porftólio você pode encontrar um pouco do que já desenvolvi, e quais habilidades estou desenvolvendo no momento.</p>
             
-            <p>Todo o código utilizado encontra-se no meu Github, acessem lá!</p>
+            <p>Todo o código utilizado encontra-se no meu Github, acesse lá!</p>
             <p className="lead">
             <a className="btn btn-primary btn-lg" href="https://github.com/galvaolucas/portfolio-lucasgalvao" role="button">Ver no Github</a>
             </p>

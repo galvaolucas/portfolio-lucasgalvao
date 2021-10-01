@@ -13,7 +13,7 @@
 
 .web-option a{
     text-decoration: none; /*retira o sublinhado dos nomes */
-    color: black;
+    color: white;
     display: flex;
     align-items: center;
 }
