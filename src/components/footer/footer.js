@@ -4,7 +4,7 @@ import './footer.css'
 function Footer() {
     return (
         <div className='footer' color='white'>
-            <font face='birthstone'> Feito por Lucas Galvão </font> 
+            <font face='Source Code Pro'> Feito por Lucas Galvão </font> 
         </div>
     )
 }

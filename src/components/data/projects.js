@@ -21,11 +21,11 @@ export const ProjectData = [
     {
         id: 3,
         title: 'Exercises',
-        about: 'Some exercises i have made while studying',
+        about: 'Some exercises i have made while studying. There are exercises from Hackerrank, Freecodecamp and others.',
         tags: ['Javascript'],
         demo: 'https://github.com/galvaolucas',
         github: 'https://github.com/galvaolucas/Certifications-Projects',
-        image: require('../../../src/assets/dev/introgithub.png').default
+        image: require('../../../src/assets/dev/challenge.jpg').default
     },
     
     ];

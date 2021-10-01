@@ -9,7 +9,7 @@ function Education() {
     return (
         <div className='education-title'>
             < Separator />
-            <label className='section-title'> Education </label>
+            <label className='section-title'> Education and Certifications </label>
             <div className='education-list'>
                 {data.map((item)=>{
                     return (

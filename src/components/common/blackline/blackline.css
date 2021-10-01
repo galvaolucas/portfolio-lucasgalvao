@@ -1,0 +1,8 @@
+.blackline{
+    background-image: black;
+
+    height: 4px;
+    width: 40%;
+    border-radius: 3px;
+    margin: 16px 0px;
+}
