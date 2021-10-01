@@ -32,7 +32,8 @@
 
 .tag{
     padding: 4px 8px;
-    background-color: aquamarine;
+    background-color: black;
+    color: white;
     margin-right: 6px;
     margin-bottom: 4px;
     border-radius: 4px;

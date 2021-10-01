@@ -11,7 +11,7 @@ function About() {
             <p className="lead">Aqui nesse porftólio você pode encontrar um pouco do que já desenvolvi, e quais habilidades estou desenvolvendo no momento.</p>
             
             <p>Todo o código utilizado encontra-se no meu Github, acesse lá!</p>
-            <p className="lead">
+            <p className="info-name">
             <a className="btn btn-primary btn-lg" href="https://github.com/galvaolucas/portfolio-lucasgalvao" role="button">Ver no Github</a>
             </p>
         </div>

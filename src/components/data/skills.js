@@ -21,7 +21,11 @@ export const SkillsData = [
            {
                name: 'Angular',
                icon: <i class="devicon-angularjs-plain colored"></i>
-           }
+           },
+           {
+            name: 'Github',
+            icon: <i class="devicon-github-original colored"></i>
+        }
         ]
        
    },

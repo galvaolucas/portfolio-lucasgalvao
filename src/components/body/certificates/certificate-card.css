@@ -1,0 +1,43 @@
+.certification-description{
+    font-size: 25px;
+}
+
+.certification-card{
+    padding: 20px;
+    width: 100%;
+    justify-content:space-between;
+    align-items: center;
+    flex-direction: row;
+}
+
+.button-link a{
+        text-decoration: none; /*retira o sublinhado dos nomes */
+        align-items: center;
+}
+
+.btn{
+font-size: 16px;
+background-color: aquamarine;
+color: black;
+}
+
+.certification-place{
+    font-weight: bold;
+}
+
+.certification-institution{
+    font-weight: bold;
+}
+
+.certificate-icon{
+    display: inline-block;
+ 	font-size: inherit;
+ 	height: 2em;
+ 	overflow: visible;
+ 	vertical-align: -.125em;
+}
+
+.certification-dates{
+    color: grey;
+}
+

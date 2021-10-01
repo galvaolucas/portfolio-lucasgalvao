@@ -7,9 +7,9 @@ import './education.css'
 function Education() {
     const data = EducationData;
     return (
-        <div className='education-title'>
+        <div className='education'>
             < Separator />
-            <label className='section-title'> Education and Certifications </label>
+            <label className='section-title'> Education </label>
             <div className='education-list'>
                 {data.map((item)=>{
                     return (
