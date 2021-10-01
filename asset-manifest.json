@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-lucasgalvao/static/css/main.927b44f2.chunk.css",
+    "main.css": "/portfolio-lucasgalvao/static/css/main.2459ffda.chunk.css",
     "main.js": "/portfolio-lucasgalvao/static/js/main.f5ddfe6f.chunk.js",
     "main.js.map": "/portfolio-lucasgalvao/static/js/main.f5ddfe6f.chunk.js.map",
     "runtime-main.js": "/portfolio-lucasgalvao/static/js/runtime-main.e23937af.js",
@@ -10,7 +10,7 @@
     "static/js/3.20e579ce.chunk.js": "/portfolio-lucasgalvao/static/js/3.20e579ce.chunk.js",
     "static/js/3.20e579ce.chunk.js.map": "/portfolio-lucasgalvao/static/js/3.20e579ce.chunk.js.map",
     "index.html": "/portfolio-lucasgalvao/index.html",
-    "static/css/main.927b44f2.chunk.css.map": "/portfolio-lucasgalvao/static/css/main.927b44f2.chunk.css.map",
+    "static/css/main.2459ffda.chunk.css.map": "/portfolio-lucasgalvao/static/css/main.2459ffda.chunk.css.map",
     "static/js/2.20340e91.chunk.js.LICENSE.txt": "/portfolio-lucasgalvao/static/js/2.20340e91.chunk.js.LICENSE.txt",
     "static/media/challenge.jpg": "/portfolio-lucasgalvao/static/media/challenge.584441bb.jpg",
     "static/media/crud.webp": "/portfolio-lucasgalvao/static/media/crud.ee8a1b98.webp",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.e23937af.js",
     "static/js/2.20340e91.chunk.js",
-    "static/css/main.927b44f2.chunk.css",
+    "static/css/main.2459ffda.chunk.css",
     "static/js/main.f5ddfe6f.chunk.js"
   ]
 }
