@@ -22,10 +22,6 @@ export const SkillsData = [
                name: 'Angular',
                icon: <i class="devicon-angularjs-plain colored"></i>
            },
-           {
-            name: 'Github',
-            icon: <i class="devicon-github-original colored"></i>
-        }
         ]
        
    },
@@ -50,5 +46,19 @@ export const SkillsData = [
            icon: <i class="devicon-mysql-plain-wordmark colored"></i>
        }
    ]      
-   }
+   },
+   {
+    type: 'Others',
+    list: [
+        {
+            name: 'Github',
+            icon: <i class="devicon-github-original colored"></i>
+        },
+            {
+                name: 'Linux',
+                icon: <i class="devicon-linux-plain"></i>
+            }
+        ]      
+    }
+    
 ];
