@@ -13,7 +13,7 @@ function CertificationCard({item}) {
                     <label>{item.initial_date}</label> - <label>{item.final_date}</label>
                 </div>
                 <div className='button-link'>
-                <a className="btn btn-primary btn-lg" href={item.certificate} role="button">Ver Certificado</a>
+                <a className="button-model" href={item.certificate} role="button">Ver Certificado</a>
                     <i class="fas fa-certificate"></i>
                 </div>
             </div>

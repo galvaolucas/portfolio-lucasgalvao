@@ -15,12 +15,14 @@
         align-items: center;
 }
 
-.btn{
-font-size: 16px;
-background-color: aquamarine;
-color: black;
+.button-model{
+    padding: 5px 10px;
+    margin-right: 6px;
+    margin-bottom: 4px;
+    border-radius: 4px;
+    background-color: black;
+    color: white;
 }
-
 .certification-place{
     font-weight: bold;
 }
