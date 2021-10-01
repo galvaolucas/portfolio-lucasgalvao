@@ -2,8 +2,18 @@
     font-size: 25px;
 }
 
+.certification-info{
+    padding: 5px;
+}
+
+.certification-dates{
+    padding: 6px;
+
+}
+
 .certification-card{
     padding: 20px;
+    margin-bottom: 20px;
     width: 100%;
     justify-content:space-between;
     align-items: center;
