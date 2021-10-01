@@ -18,6 +18,6 @@ export const WorkData = [
         designation:'From June/2019 - June/2020: Electrical Projectist / From June 2020 - Present Days: Analyst Engineer and Coordinator',
         dateJoining:'June/2019',
         dateEnd:'',
-        work:'Projetist and coordinator of electrical engineering services, biddings and maintenances.'
+        work:'Projetist and coordinator of electrical engineering services, biddings and maintenances. Team leader.'
     },
 ]

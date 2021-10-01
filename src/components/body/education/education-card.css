@@ -1,0 +1,25 @@
+.education-description{
+    font-size: 25px;
+}
+
+.education-card{
+    padding: 20px;
+    width: 100%;
+    justify-content:space-between;
+    align-items: center;
+    flex-direction: row;
+}
+
+.education-place{
+    font-weight: bold;
+}
+
+.education-institution{
+    font-weight: bold;
+}
+
+.education-dates{
+    color: grey;
+}
+
+

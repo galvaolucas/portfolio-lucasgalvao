@@ -3,8 +3,8 @@ import './footer.css'
 
 function Footer() {
     return (
-        <div className='footer'>
-            Feito por Lucas Galvão 
+        <div className='footer' color='white'>
+            <font face='birthstone'> Feito por Lucas Galvão </font> 
         </div>
     )
 }

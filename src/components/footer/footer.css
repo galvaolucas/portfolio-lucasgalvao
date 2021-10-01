@@ -1,7 +1,11 @@
 .footer{
+    font-size: 30px;
     padding: 12px;
     display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 24px;
+    background-color: black;
+    color: white;
+
 }
