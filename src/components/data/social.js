@@ -20,5 +20,10 @@ export const SocialData = [
         platform: 'Whatsapp',
         link: 'https://api.whatsapp.com/send?phone=5584996170738&text=Opa%2C%20Lucas!%20Tudo%20bom%3F',
         icon: require('../../../src/assets/social/whatsapp.png').default
+    },
+    {
+        platform: 'Gmail',
+        link: 'mailto:lucasmelogalv@gmail.com',
+        icon: require('../../../src/assets/social/gmail.png').default
     }
 ];
