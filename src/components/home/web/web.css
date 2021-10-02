@@ -5,6 +5,10 @@
 
 }
 
+.certificate-image{
+    width: 10px;
+}
+
 .web-option{
     font-size: 20px;
     margin-right: 16px;
@@ -13,7 +17,7 @@
 
 .web-option a{
     text-decoration: none; /*retira o sublinhado dos nomes */
-    color: white;
+    color: black;
     display: flex;
     align-items: center;
 }

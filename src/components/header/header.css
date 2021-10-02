@@ -1,6 +1,6 @@
 .header{
     display: flex;
-    background-color:black;
+    background-color:white;
     justify-content: space-between; /* joga o conteudo para as pontas*/
     flex: 1;
     padding: 12px; /*distancia para o topo do header*/
