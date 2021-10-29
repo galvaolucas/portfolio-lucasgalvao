@@ -14,7 +14,7 @@ function Contact() {
                     <SocialContact />
                 </div>
                 <div className='download'>
-                    <a download href= {require('../../../../src/assets/curriculo/resume.pdf').default}>
+                    <a download href= {require('../../../../src/assets/resume.pdf').default}>
                     <i class="fi-rr-download download-icon"></i>
                         Veja meu currículo aqui!
                     </a>
