@@ -27,5 +27,23 @@ export const ProjectData = [
         github: 'https://github.com/galvaolucas/Certifications-Projects',
         image: require('../../../src/assets/dev/challenge.jpg').default
     },
+    {
+        id: 4,
+        title: 'Github Explorer',
+        about: 'This is a simple React app to show all my Github repositories, consuming the Github API, and using React hooks.',
+        tags: ['Javascript', 'Typescript', 'ReactJS'],
+        demo: 'https://github.com/galvaolucas',
+        github: 'https://github.com/galvaolucas/Github-Explorer',
+        image: require('../../../src/assets/dev/github_explorer.jpg').default
+    },
+    {
+        id: 5,
+        title: 'Challenge 01 - Ignite - Rocketseat',
+        about: 'Todo list made for the first challenge of the Rocketseat platform, using React hooks.',
+        tags: ['Javascript', 'Typescript', 'ReactJS'],
+        demo: 'https://github.com/galvaolucas',
+        github: 'https://github.com/galvaolucas/Desafio1.RocketSeat.ReactJS',
+        image: require('../../../src/assets/dev/todolist.png').default
+    },
     
     ];
